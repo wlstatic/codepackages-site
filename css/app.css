@@ -2,14 +2,10 @@ body {
   background: linear-gradient(20deg, #f43b47 0%, #453a94 100%);
   background-repeat: no-repeat;
 }
-.pitch{
+.pitch {
   margin-top: 200px;
   text-align: center;
 }
-.pitch-wrap{
+.pitch-wrap {
   color: #FFFFFF;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: 50% 50%;
 }
